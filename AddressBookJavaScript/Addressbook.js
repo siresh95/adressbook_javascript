@@ -28,5 +28,7 @@ class Contact{
     }
 }
 
-let person = new Contact("Resh","Singh","Abc","Bhopal","MH",462042,9009009010,"ndbbsmnb@gmail.com");
-console.log(person.toString()); 
+let person1 = new Contact("Resh","Singh","Abc","Bhopal","MH",462042,9009009010,"ndbbsmnb@gmail.com");
+console.log(person1.toString()); 
+let person2 = new Contact("Naresh","Singh","Abc","Sagar","MH",462024,9009009043,"nbsccmnsc@gmail.com");
+console.log(person2.toString()); 
